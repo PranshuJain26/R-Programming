@@ -12,7 +12,7 @@ Code Cells: 114
 
 Markdown (Explanatory) Cells: 54
 
-The notebook combines both theory and hands-on examples to make learning R effective
+The notebook combines both theory and hands-on examples to make learning R effective.
 
 🔑 Topics Covered
 
